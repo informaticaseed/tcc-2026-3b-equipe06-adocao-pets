@@ -8,7 +8,7 @@
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
 | Vitória Santana Barbosa| @username | 3A |
-| (nome 2) | @username | 3A |
+| Maíra Gomes Rodrigues| @username | 3A |
 | (nome 3) | @username | 3A |
 
 **Tema:** (escreva aqui em 1 frase)
