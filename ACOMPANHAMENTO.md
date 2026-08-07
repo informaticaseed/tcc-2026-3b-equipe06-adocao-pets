@@ -1,7 +1,7 @@
 # Acompanhamento Quinzenal — Prof. Rafael
 **Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Turma:** 3B
+
 
 ---
 
@@ -11,9 +11,17 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Letícia da Silva |- Banco de dados:CRUD animais e CRUD protetores - Backend:CRUD animais e CRUD protetores |
+| Vitória Santana | levantamento dos requisitos, diagrama de uso |
+| Maíra Gomes | Layout das páginas do site |
+| Sophia | Frontend: CRUD animais e  CRUD protetores|
+| Letícia Krixi | passar para o padrão de TCC da escola |
+
+Backlog:
+- Banco de dados:CRUD animais, filtros de buscas, CRUD clientes, CRUD ONGs, CRUD doação
+- Backend: CRUD animais, filtros de buscas, CRUD clientes, CRUD ONGs, CRUD doação
+- Frontend: CRUD animais, filtros de buscas, CRUD clientes, CRUD ONGs, CRUD doação
+- Relatório: levantamento dos requisitos, diagrama de uso, passar para o padrão de TCC da escola
 
 ### Verificação em 08/08
 
