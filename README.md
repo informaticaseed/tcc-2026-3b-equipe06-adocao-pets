@@ -94,3 +94,5 @@ Certifique-se de ter instalado em sua máquina:
    ```bash
    npm start
    ```
+
+   atualização do conograma + relatório daatualização do tcc
