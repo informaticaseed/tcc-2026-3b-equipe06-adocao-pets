@@ -93,4 +93,9 @@ Certifique-se de ter instalado em sua máquina:
 4. Execute o comando de inicialização para rodar localmente:
    ```bash
    npm start
+
+
+
+   Atualização do cronograma + Atualização do relatório de TCC
+
    ```
