@@ -105,4 +105,7 @@ Certifique-se de ter instalado em sua máquina:
    ```
 
    atualização do cronograma + escrita do tcc
+
+   ```
+   atualização do cronograma + Atualização do relatório de TCC
    
