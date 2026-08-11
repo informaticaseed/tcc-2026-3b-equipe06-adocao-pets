@@ -101,3 +101,8 @@ Certifique-se de ter instalado em sua máquina:
    ```
 
    atualização do conograma + relatório daatualização do tcc
+
+   ```
+
+   atualização do cronograma + escrita do tcc
+   
