@@ -16,12 +16,9 @@
 
 | # | Funcionalidade | Prioridade | Status |
 |---|---------------|-----------|--------|
-| 1 | (escreva aqui) | Alta | ⏳ A fazer |
-| 2 | (escreva aqui) | Alta | ⏳ A fazer |
-| 3 | (escreva aqui) | Alta | ⏳ A fazer |
-| 4 | (escreva aqui) | Média | ⏳ A fazer |
-| 5 | (escreva aqui) | Média | ⏳ A fazer |
-| 6 | (escreva aqui) | Baixa | ⏳ A fazer |
+| 1 | Pesquisa | Alta | Fazendo |
+| 2 | Escrita | Alta | Fazendo |
+| 3 | Implementação do site | Alta | Fazendo |
 
 > Atualize o Status conforme avança: ⏳ A fazer → 🔄 Fazendo → ✅ Feito
 
