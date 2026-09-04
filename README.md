@@ -1,11 +1,11 @@
-# TCC 2026 — [Nome do Grupo]
+# TCC 2026 — [grupo06 adoção de pets]
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
            
 ---
    
 ## 👥 Integrantes        
 
-# TCC 2026 - [Nome do Grupo]
+# TCC 2026 - [grupo06 adoção de pets]
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael**
 
 ---
@@ -21,7 +21,7 @@ Nosso projeto consiste no desenvolvimento de um site dedicado à adoção de cã
 | Nome completo | GitHub | Turma |
 | :--- | :--- | :--- |
 | Vitória Santana | @usuario_vitoria | [3b] |
-| Sofia Abarno | @usuario_sofia | [3b] |
+| Sophia Abarno | @usuario_sofia | [3b] |
 | Maíra Gomes | @usuario_maira | [3b] |
 | Letícia Krixi | @leticiakrixis | [3b] |
 | Letícia Silva | @usuario_leticia_s | [3b] |
