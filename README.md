@@ -19,7 +19,6 @@ Nosso projeto consiste no desenvolvimento de um site dedicado à adoção de cã
 ## 👥 Integrantes
 
 | Nome completo | GitHub | Turma |
-| :--- | :--- | :--- |
 | Vitória Santana | @usuario_vitoria | [3b] |
 | Sophia Abarno | @usuario_sofia | [3b] |
 | Maíra Gomes | @usuario_maira | [3b] |
@@ -82,7 +81,7 @@ Certifique-se de ter instalado em sua máquina:
 ### 2. Passo a Passo
 1. Clone o repositório do projeto:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/informaticaseed/tcc-2026-3b-equipe06-adocao-pets.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -111,4 +110,4 @@ Certifique-se de ter instalado em sua máquina:
 
    ```
    atualização do cronograma + Atualização do relatório de TCC
-   
+   melhoramento da interface, atualização de configurações e funcionalidades.
