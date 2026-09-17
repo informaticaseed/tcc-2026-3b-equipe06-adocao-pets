@@ -20,7 +20,7 @@ Nosso projeto consiste no desenvolvimento de um site dedicado à adoção de cã
 
 | Nome completo | GitHub | Turma |
 | Vitória Santana | @usuario_vitoria | [3b] |
-| Sophia Abarno | @usuario_sofia | [3b] |
+| Sophia Abarno | @usuario_sophia | [3b] |
 | Maíra Gomes | @usuario_maira | [3b] |
 | Letícia Krixi | @leticiakrixis | [3b] |
 | Letícia Silva | @usuario_leticia_s | [3b] |
@@ -30,7 +30,7 @@ Nosso projeto consiste no desenvolvimento de um site dedicado à adoção de cã
 .
 
 
-
+.
 .
 
 
