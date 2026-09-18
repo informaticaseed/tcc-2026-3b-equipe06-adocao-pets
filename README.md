@@ -66,7 +66,7 @@ graph TD
     
     %% Ações do Protetor
     PainelProtetor -->|Insere Foto, Idade e Porte| CadPet[Formulário de Cadastro de Pets]
-    CadPet -->|Salvar Dados| BD
+    CadPet -->|Salvar Dados| BD.
 
     %% Ações do Adotante
     BD -->|Lista os Pets Disponíveis| PainelAdotante
